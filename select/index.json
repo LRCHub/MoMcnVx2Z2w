@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "阿波弁",
+  "base_artist": "Watson",
+  "createdAt": "2026-03-23T19:19:43.517248Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "阿波弁",
+      "artist": "Watson",
+      "has_synced": false,
+      "path": "select/pl_01_阿波弁_Watson.txt"
+    }
+  ]
+}
